@@ -1,0 +1,8 @@
+set "apple" 10
+remove "banana"
+set "test" "ten" "three"
+remove
+size 26
+AWESOME
+get "apple"
+quit

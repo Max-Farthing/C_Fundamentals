@@ -1,0 +1,4 @@
+set "     breakfast" 12
+set 3 24
+get 3 25
+quit
